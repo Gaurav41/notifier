@@ -112,7 +112,7 @@ public class Update_Product1 extends javax.swing.JFrame {
         jPanel1.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\Gaurav\\Documents\\NetBeansProjects\\notifier\\src\\main\\img\\UpdateTitle.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\Gaurav\\Documents\\NetBeansProjects\\notifier\\src\\main\\java\\images\\UpdateTitle.png")); // NOI18N
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -127,7 +127,7 @@ public class Update_Product1 extends javax.swing.JFrame {
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 60, Short.MAX_VALUE)
+                .addComponent(jLabel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addContainerGap())
         );
 
@@ -173,7 +173,7 @@ public class Update_Product1 extends javax.swing.JFrame {
         cmbNotification_Type.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "OnApp", "Email", "Both", " " }));
 
         btnUpdate.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
-        btnUpdate.setIcon(new javax.swing.ImageIcon("C:\\Users\\Gaurav\\Documents\\NetBeansProjects\\notifier\\src\\main\\img\\update.png")); // NOI18N
+        btnUpdate.setIcon(new javax.swing.ImageIcon("C:\\Users\\Gaurav\\Documents\\NetBeansProjects\\notifier\\src\\main\\java\\images\\update.png")); // NOI18N
         btnUpdate.setText("Update");
         btnUpdate.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -184,7 +184,7 @@ public class Update_Product1 extends javax.swing.JFrame {
         dtExpiryDate.setDateFormatString("dd/MM/yyyy");
 
         btnCancel.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
-        btnCancel.setIcon(new javax.swing.ImageIcon("C:\\Users\\Gaurav\\Documents\\NetBeansProjects\\notifier\\src\\main\\img\\cancel2.png")); // NOI18N
+        btnCancel.setIcon(new javax.swing.ImageIcon("C:\\Users\\Gaurav\\Documents\\NetBeansProjects\\notifier\\src\\main\\java\\images\\cancel2.png")); // NOI18N
         btnCancel.setText("Cancel");
         btnCancel.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

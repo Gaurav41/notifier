@@ -70,7 +70,7 @@
           <Group type="103" groupAlignment="0" attributes="0">
               <Group type="102" alignment="0" attributes="0">
                   <EmptySpace max="-2" attributes="0"/>
-                  <Component id="jLabel1" pref="60" max="32767" attributes="0"/>
+                  <Component id="jLabel1" max="32767" attributes="0"/>
                   <EmptySpace max="-2" attributes="0"/>
               </Group>
           </Group>
@@ -83,7 +83,7 @@
               <Font name="Tahoma" size="24" style="0"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Gaurav\Documents\NetBeansProjects\notifier\src\main\img\UpdateTitle.png"/>
+              <Image iconType="2" name="C:\Users\Gaurav\Documents\NetBeansProjects\notifier\src\main\java\images\UpdateTitle.png"/>
             </Property>
           </Properties>
         </Component>
@@ -321,7 +321,7 @@
               <Font name="Tahoma" size="14" style="1"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Gaurav\Documents\NetBeansProjects\notifier\src\main\img\update.png"/>
+              <Image iconType="2" name="C:\Users\Gaurav\Documents\NetBeansProjects\notifier\src\main\java\images\update.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Update"/>
           </Properties>
@@ -340,7 +340,7 @@
               <Font name="Tahoma" size="14" style="1"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Gaurav\Documents\NetBeansProjects\notifier\src\main\img\cancel2.png"/>
+              <Image iconType="2" name="C:\Users\Gaurav\Documents\NetBeansProjects\notifier\src\main\java\images\cancel2.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Cancel"/>
           </Properties>
